@@ -12,10 +12,10 @@ public class Application {
 	
 		// pseudo logic
 		// is first number less than second number then
-		// minimum is first nu m
+		// minimum is first number
 		
-		5/2
-		5 % 2 = 
+		//5/2
+		//5 % 2 =
 		
 		if(firstNumber < secondNumber) {
 			System.out.println("minimum is:" + firstNumber);
