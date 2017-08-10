@@ -1,0 +1,16 @@
+Steps involved in writing program
+
+Step 1
+
+Understand what the program is supposed to do. This is very important and called requirements in real software. Have a mental picture how the working program will look like even if you have no idea how you are going to write it.
+
+Step 2
+
+Think how you solve this on note book. Take some sample data and run through your mind. For example in above case what user inputs 2 numbers as 10, 20, then it should print minimum number is :10 and maximum is 20. If user gives another set like 40, 20, then it should give minimum number as 20 and maximum is 40.
+
+Step 3
+
+Now you can start putting in program. Questions like is will be come if , phrases like otherwise will become else
+
+!!Always write in Syntax First!!
+
