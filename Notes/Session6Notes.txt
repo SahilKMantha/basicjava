@@ -1,0 +1,37 @@
+Class 
+
+Person{
+
+Fill it in with Strings and int
+
+ex.
+
+int age;
+String name;
+int height;
+int weight;
+String nickname;
+
+
+}
+
+How can we use this data type in our program?. Remember again how you are used to declare a basic Java supplied variable, which is datatype followed by variable.(int age;) Here also same.
+
+Person person1;
+
+Here the data type is Person and variable is person1
+
+We have slight difference in assigning values to this variable. In regular data type like int you have used = 10 ( justed used = and then value). But for the data types you have created
+
+Person person1 = new Person();
+
+= new datatype();
+
+new is the keyword and you are saying to Java that I want to create new value ( the technical term object which we will learn more about this in the next class) for this data type I have created. Once you have done this, then you can assign individual parts of Person (age,name,grade,height,weight) using . (dot) like below
+
+    Person person1 = new Person();
+    person1.age = 14;
+    person1.name = “Sahil”;
+    person1.grade = 9;
+    person1.height = 5;
+    person1.weight = 100;
