@@ -12,5 +12,5 @@ Step 3
 
 Now you can start putting in program. Questions like is will be come if , phrases like otherwise will become else
 
-!!Always write in Syntax First!!
+!!!Always write in Syntax First!!!
 
