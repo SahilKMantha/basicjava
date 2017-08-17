@@ -16,8 +16,13 @@ public class Application {
 		Car c2 = new Car();
 			c2.Model = "Civic";
 			c2.Company = "Honda";
+			c2.year = 2015;
+			c2.Tires = "Goodyear";
 			
 			System.out.println(c2.Model);
+			System.out.println(c2.Company);
+			System.out.println(c2.year);
+			System.out.println(c2.Tires);
 	}
 
 }
