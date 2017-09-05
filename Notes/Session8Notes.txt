@@ -1,0 +1,7 @@
+fields in class are nothing but variables in class
+
+action in class are nothing but methods in class
+
+methods in class can access the fields declared in class.
+
+boolean variables are used to store values yes or no types.
