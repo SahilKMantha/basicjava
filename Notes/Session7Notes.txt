@@ -1,0 +1,17 @@
+Remember Syntax is important ( try understanding it and practice it.)
+
+Custom data type technical term is class
+
+variable for custom data type is nothing but object ( also instance)
+
+class is Singular Noun ( ex: Person)
+
+class in Java starts with Uppercase
+
+action in class describe the behavior
+
+They are called method ( also function)
+
+They start with lower case ( run, readBook)
+
+scoping meaning the variable declared in a code block is alive and dead between { and }
