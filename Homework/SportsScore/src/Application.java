@@ -6,7 +6,8 @@ public class Application {
 		
 		Player p1 = new Player();
 		p1.play();
-		p1.getScore(100);
+		int score = p1.getScore();
+		System.out.println("He has scored " + score);
 		
 		
 

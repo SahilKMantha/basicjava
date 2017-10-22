@@ -1,27 +1,13 @@
 
 public class Player {
-	
-	int score;
-	
-	
-	
+
 	void play() {
-		System.out.println("What is the Score?"); 
+		System.out.println("The Player's name is Sahil...");
 	}
 
-	int getScore (int inputscore) {
-		score = inputscore;
-		System.out.println("The Score is " + score);
-		return 100;
-		
+	int getScore() {
+		return 100; 
+
 	}
-
-
-
-
-
-
-
-
 
 }
