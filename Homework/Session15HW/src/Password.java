@@ -1,12 +1,13 @@
 
 public class Password {
 
-	int age;
-	String name;
+	int lenght;
+	String ownername;
 
-	Password(int age) {
+	Password(int lenght, String ownername) {
 		
-		this.age = age; 
+		this.lenght = lenght; 
+		this.ownername = ownername; 
 	}
 	
 	

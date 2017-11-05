@@ -1,12 +1,13 @@
 
 public class SocialSecurity {
 
-	int age;
-	String name;
+	int lenght;
+	String owner;
 	
-	SocialSecurity(int age){
+	SocialSecurity(int lenght, String owner){
 	
-	this.age = age;
+	this.lenght = lenght;
+	this.owner = owner; 
 	}
 	
 	private void number () {
